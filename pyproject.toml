@@ -1,0 +1,14 @@
+[project]
+name = "select_folder_path_easy"
+description = "This extension simply connects the nodes and specifies the output path of the generated images to a manageable path."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Umikaze-job/select_folder_path_easy"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "select_folder_path_easy"
+Icon = ""
